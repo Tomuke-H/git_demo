@@ -30,4 +30,8 @@ puts minus(2,5)
 # pick a chunk of work, get it working MAKE SURE IT WORKS
 # git add . (or files you want to commit)
 # git commit -m'describe work done'
-# repeat until dead
+# repeat until ready to push to git hub
+# to github
+
+## pushing to github
+## git push origin master
