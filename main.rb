@@ -12,3 +12,10 @@ def add(num1, num2)
 end
 
 puts add(2,5)
+
+# minus 
+def add(num1, num2)
+    return num1 - num2
+end
+
+puts add(2,5)
